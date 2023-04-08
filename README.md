@@ -1,6 +1,7 @@
 # Flow
 A Wordle derivitive with UI, clues, game history, word meanings, hard and easy dictionaries.
 
+![Alt Text](https://github.com/Steve-Shambles/Flow/blob/main/screenshots/flow_scrrenshot_001.png)
 
 FLOW V1.0 - Five Letters One Word
 
@@ -66,7 +67,7 @@ How To Play FLOW:
 
 8: If any letters are not coloured either green or yellow they are not
    in the secret word and can be discounted.
-   
+
 9. Can you can use this information to logically work out the secret word?
 
 10: You have six attempts. Use "Give Me A Clue" if you get stuck.
