@@ -26,7 +26,7 @@ I have removed all of the 'bad' words from the dictionaries, I  even
 enlisted the help of A.I (chatGTP) to search for and remove anything
 even remotely offensive, but I'm sure there's a few in there that
 will offend someone somewhere, but I hope not,
-this is a fun game for all ages.
+this is meabt to be a fun game for all ages.
 
 
 There is also a game log\history that keeps a record of every game
