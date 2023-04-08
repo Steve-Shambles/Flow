@@ -55,6 +55,8 @@ How To Play FLOW:
 4: if you guess the secret word correctly you will be offered to
    see the meaning of the word or not, your game history will
    be updated and a new game will be offered to you.
+   
+![Alt Text](https://github.com/Steve-Shambles/Flow/blob/main/screenshots/flow_scrrenshot_002.png)
 
 5: If you do not guess the full word correctly, you may see some
    letters of your word are coloured in green or yellow, or not at all.
