@@ -74,8 +74,8 @@ How To Play FLOW:
 
 Note: The catch is you can't just slap any old letters in at random,
       you can only enter real words, and those words must be in the
-	  game's current dictionary, sometimes what seems a perfectly 
-	  valid word is not in the game dictionary for some reason!
+      game's current dictionary, sometimes what seems a perfectly 
+      valid word is not in the game dictionary though, for some reason!
 	
 
 Good luck, and just go with the FLOW people.
